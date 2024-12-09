@@ -1,0 +1,12 @@
+2024-12-08 15:16:45,961 - INFO - Device: cuda
+2024-12-08 15:16:46,139 - INFO - Getting half seq len datasets...
+2024-12-08 15:16:47,375 - INFO - Loaded serialized datasets. Sizes of them are: 271732, 3534
+2024-12-08 15:16:48,046 - INFO - Using pararmeters:
+batch_size=26, n_epoch=7, dataset_type=DatasetTypes.half_seq_len
+2024-12-08 15:16:48,046 - INFO - Number of parameters: 8446836
+
+96%|█████████▌| 9999/10452 [1:15:50<03:25,  2.20it/s][AEpoch: 04 | train_loss = 4.32132, eval_loss = 4.28597 GPU Utilization=100%, Memory Utilization=43%, Used Memory=22855.19MB
+
+100%|██████████| 7/7 [9:19:16<00:00, 4793.72s/it]
+Training time: 33556.074337005615
+Best loss: 4.2312913098756
